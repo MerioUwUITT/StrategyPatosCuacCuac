@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\PatosCuacCuac\bin\Debug\net6.0\PatosCuacCuac.exe
+C:\Users\Mario\source\repos\PatosCuacCuac\bin\Debug\net6.0\PatosCuacCuac.deps.json
+C:\Users\Mario\source\repos\PatosCuacCuac\bin\Debug\net6.0\PatosCuacCuac.runtimeconfig.json
+C:\Users\Mario\source\repos\PatosCuacCuac\bin\Debug\net6.0\PatosCuacCuac.dll
+C:\Users\Mario\source\repos\PatosCuacCuac\bin\Debug\net6.0\PatosCuacCuac.pdb
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.AssemblyInfo.cs
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.dll
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\refint\PatosCuacCuac.dll
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.pdb
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\PatosCuacCuac.genruntimeconfig.cache
+C:\Users\Mario\source\repos\PatosCuacCuac\obj\Debug\net6.0\ref\PatosCuacCuac.dll
